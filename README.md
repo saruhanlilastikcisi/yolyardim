@@ -1,7 +1,8 @@
 
-<google-site-verification: google50f92341ca6d3292.html>
 <html lang="tr">
 <head>
+  <google-site-verification: google50f92341ca6d3292.html>
+  <meta name="google-site-verification" content="brOw_8vkvuIniPZC7WXiHNerKJqzTG24EQ4imOPvrs4" />
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Lastikçi Saruhanlı Lastikçisi – 7/24 Yol Yardım</title>
