@@ -1,5 +1,3 @@
-
-<uygun fiyatlar, kaliteli hizmet>
 <html lang="tr">
 <head>
   <meta charset="UTF-8" />
