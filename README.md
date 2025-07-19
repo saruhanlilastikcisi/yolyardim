@@ -1,3 +1,4 @@
+google-site-verification: google50f92341ca6d3292.html
 <!DOCTYPE html>
 <html lang="tr">
 <head>
