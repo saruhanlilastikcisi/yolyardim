@@ -1,5 +1,5 @@
-google-site-verification: google50f92341ca6d3292.html
-<!DOCTYPE html>
+
+<google-site-verification: google50f92341ca6d3292.html>
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
