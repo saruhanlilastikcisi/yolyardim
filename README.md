@@ -13,6 +13,8 @@
   <meta property="og:url" content="https://lastikcisaruhanli.com">
   <link rel="icon" href="favicon.ico">
   <script src="https://cdn.tailwindcss.com"></script>
+  <meta name="google-site-verification" content="brOw_8vkvuIniPZC7WXiHNerKJqzTG24EQ4imOPvrs4" />
+
 </head>
 <body class="bg-gray-100 text-gray-800 font-sans">
 
