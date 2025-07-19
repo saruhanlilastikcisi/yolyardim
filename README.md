@@ -16,7 +16,14 @@
   <meta name="google-site-verification" content="brOw_8vkvuIniPZC7WXiHNerKJqzTG24EQ4imOPvrs4" />
 
 </head>
-<body class="bg-gray-100 text-gray-800 font-sans">
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: url('2025-03-22.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+}
+
 
   <!-- HEADER -->
   <header class="bg-black text-white py-6 px-4 text-center">
